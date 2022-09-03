@@ -6,3 +6,4 @@ creating directory to a new path
 movng from one directory to another
 to change directory to previous one
 bring me home
+list hidden root files
