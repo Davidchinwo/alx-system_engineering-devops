@@ -1,2 +1,1 @@
-script that prints the absolute path name of the current working directory
-there is no other home
+the long formate
