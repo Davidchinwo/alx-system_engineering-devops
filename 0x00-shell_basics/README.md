@@ -8,3 +8,4 @@ to change directory to previous one
 bring me home
 list hidden root files
 12-file_type
+symboic link
