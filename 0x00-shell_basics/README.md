@@ -11,3 +11,4 @@ list hidden root files
 symboic link
 copy html file
 100-lets_move
+delect all fileending with~ 
