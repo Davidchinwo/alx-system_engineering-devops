@@ -8,3 +8,4 @@ Create a script that creates a directory named my_first_directory in the /tmp/ d
 Move the file betty from tmp to tmp my first directory
 Delete the file betty
 Delete the directory my firstdirectory that is in the tmp directory
+Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script
